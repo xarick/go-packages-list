@@ -16,6 +16,10 @@
 
 **[GORM](https://gorm.io/)** - is the most popular DB libraries for Go. It is a full-featured object-relational mapping library for Golang.
 
+**[SQLC](https://sqlc.dev/)** - is an SQL compiler ORM package that generates type-safe code from SQL to interact with SQL databases with Go data types.
+
+**[SQLX](https://github.com/jmoiron/sqlx)** - provides extensions to Go’s built-in database/sql package for more efficient, comprehensive interactions with databases in Go.
+
 **[MGO](https://labix.org/mgo)** - is a library for Golang. It is a MongoDB driver that implements rich functionalities under a simple API standard for Go idioms.
 
 
