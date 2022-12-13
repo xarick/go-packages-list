@@ -1,4 +1,4 @@
-# go-packages-list
+# GO packages
 
 
 ## Authentication
